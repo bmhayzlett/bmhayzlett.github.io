@@ -67,7 +67,8 @@ h1 {
 }
 
 .rightHeader {
-  border-bottom: 1px solid #4A96AD;
+  border-bottom: 2px solid #4A96AD;
+  text-align: center;
 }
 
 .projectPic {
@@ -79,6 +80,7 @@ h1 {
   display: inline-block;
   position: relative;
   left: 300px;
+  top:100px;
 }
 
 .picBox {
