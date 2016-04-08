@@ -3,7 +3,7 @@ body {
   background-color: #F5F3EE;
   width: 1200px;
   height:700px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .headerBar {
@@ -37,7 +37,7 @@ h1 {
 }
 
 .rightSide {
-  
+
 }
 
 .projectPic {
