@@ -66,12 +66,15 @@ h1 {
   text-align: center;
 }
 
+.rightHeader {
+  border-bottom: 1px solid #4A96AD;
+}
+
 .projectPic {
   height: 150px;
 }
 
 .languageBar {
-  background-color: #4A96AD;
   width: 895px;
   display: inline-block;
   position: relative;
