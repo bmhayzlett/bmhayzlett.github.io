@@ -2,7 +2,8 @@ body {
   margin: 0;
   background-color: #F5F3EE;
   width: 1200px;
-  height:650px;
+  height:700px;
+  font-family: 'Roboto', sans-serif;
 }
 
 .headerBar {
@@ -26,9 +27,17 @@ h1 {
   padding-left: 10px;
 }
 
+.leftSide {
+
+}
+
 .myPic {
   height: 300px;
   width: auto;
+}
+
+.rightSide {
+  
 }
 
 .projectPic {
