@@ -1,13 +1,14 @@
 .headerBar {
-
+  background-color: blue;
+  color: white;
 }
 
 h1 {
-
+  display: inline-block;
 }
 
 .linkIcons {
-  
+  float:right
 }
 
 .myPic {
