@@ -46,6 +46,7 @@ h1 {
 .myPic {
   height: 300px;
   width: auto;
+  border-radius: 10px;
 }
 
 .aboutMe {
@@ -62,6 +63,7 @@ h1 {
   top: 80px;
   left: 300px;
   position: relative;
+  text-align: center;
 }
 
 .projectPic {
@@ -69,7 +71,11 @@ h1 {
 }
 
 .languageBar {
-  background-color: #4A96AD
+  background-color: #4A96AD;
+  width: 895px;
+  display: inline-block;
+  position: relative;
+  left: 300px;
 }
 
 .picBox {
