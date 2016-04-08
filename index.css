@@ -66,11 +66,13 @@ h1 {
   left: 300px;
   position: relative;
   text-align: center;
-  background-color: rgba(245,243,238,0.8)
+  background-color: rgba(245,243,238,0.8);
+  overflow-y: auto;
 }
 
 .rightHeader {
   text-align: center;
+  font-size: 36px;
 }
 
 .projectBar {
@@ -107,7 +109,7 @@ h1 {
 .educationBar {
   padding-bottom: 50px;
   position:relative;
-  top: 100px;
+  padding-top: 100px;
 }
 
 .schoolDetail {
