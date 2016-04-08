@@ -80,7 +80,11 @@ h1 {
 }
 
 .projectPic {
-  height: 150px;
+  height: 250px;
+}
+
+.projectName {
+
 }
 
 .projectDescription {
@@ -93,6 +97,7 @@ h1 {
   display: inline-block;
   position: relative;
   top:100px;
+  background-color: rgba(0,0,0,0.6);
 }
 
 .picBox {
