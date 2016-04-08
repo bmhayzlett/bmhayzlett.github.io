@@ -3,6 +3,9 @@ body {
   background-color: #F5F3EE;
 }
 
+/**/ #4A96AD
+/**/ #FFFFFF
+
 .headerBar {
   background-color: #7D1935;
   color: white;
@@ -32,6 +35,10 @@ h1 {
 
 .projectPic {
   height: 200px;
+}
+
+.languageBar {
+  background-color: #4A96AD
 }
 
 .languagePic {
