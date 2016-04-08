@@ -5,6 +5,7 @@ body {
   height:700px;
   font-family: 'Open Sans', sans-serif;
   background-attachment:fixed;
+  background-size: cover;
 }
 
 .headerBar {
@@ -60,12 +61,12 @@ h1 {
 
 .rightSide {
   display: inline-block;
-  width: 895px;
+  width: 900px;
   top: 80px;
   left: 300px;
   position: relative;
   text-align: center;
-  background-color: rgba(245,243,238,0.9)
+  background-color: rgba(245,243,238,0.8)
 }
 
 .rightHeader {
@@ -78,6 +79,11 @@ h1 {
 
 .projectPic {
   height: 150px;
+}
+
+.projectDescription {
+  width: 70%;
+  margin: 0 auto;
 }
 
 .languageBar {
