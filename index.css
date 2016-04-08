@@ -39,6 +39,10 @@ h1 {
   background-color: #4A96AD
 }
 
+.picBox {
+  display:inline-block;
+}
+
 .languagePic {
   height: 100px;
 }
