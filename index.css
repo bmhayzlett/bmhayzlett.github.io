@@ -10,6 +10,9 @@ body {
   background-color: #7D1935;
   color: #FFFFFF;
   height: 80px;
+  position: fixed;
+  width: inherit;
+  z-index: 1;
 }
 
 h1 {
@@ -28,7 +31,12 @@ h1 {
 }
 
 .leftSide {
-
+  display: inline-block;
+  height: 720px;
+  width: 300px;
+  position: fixed;
+  top: 80px;
+  z-index: 1;
 }
 
 .myPic {
@@ -36,8 +44,20 @@ h1 {
   width: auto;
 }
 
-.rightSide {
+.aboutMe {
 
+}
+
+.myDescription {
+  
+}
+
+.rightSide {
+  display: inline-block;
+  width: 895px;
+  top: 80px;
+  left: 300px;
+  position: relative;
 }
 
 .projectPic {
