@@ -5,6 +5,7 @@ body {
   width: 1200px;
   height:700px;
   font-family: 'Open Sans', sans-serif;
+  background-attachment: fixed;
 }
 
 .headerBar {
@@ -41,7 +42,7 @@ h1 {
   top: 80px;
   z-index: 1;
   text-align: center;
-  background-color: #4A96AD
+  background-color: rgba(74,150,173,0.9)
 }
 
 .myPic {
@@ -68,8 +69,11 @@ h1 {
 }
 
 .rightHeader {
-  border-bottom: 2px solid #4A96AD;
   text-align: center;
+}
+
+.projectBar {
+
 }
 
 .projectPic {
