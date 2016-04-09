@@ -3,7 +3,8 @@ body {
   position: relative;
   width: 1200px;
   height:700px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
   background-attachment:fixed;
   background-size: cover;
 }
